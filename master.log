@@ -1,0 +1,4246 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2014.7.3)  2 OCT 2015 02:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**master.tex
+(./master.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
+ai, loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2012/05/06 v2.2b Advanced font selection for XeLaTeX/LuaLaTeX
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+)
+Package: l3names 2012/03/04 v3494 L3 Experimental namespace for primitives
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count92
+)
+Package: expl3 2012/04/23 v3570 L3 Experimental code bundle wrapper
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2012/03/04 v3491 L3 Experimental basic definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2012/03/04 v3490 L3 Experimental token lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2012/03/04 v3490 L3 Experimental sequences and stacks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2012/03/04 v3490 L3 Experimental integers
+\c_max_int=\count93
+\l_tmpa_int=\count94
+\l_tmpb_int=\count95
+\l_tmpc_int=\count96
+\g_tmpa_int=\count97
+\g_tmpb_int=\count98
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2012/03/04 v3490 L3 Experimental control structures
+\g_prg_map_int=\count99
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2012/03/04 v3490 L3 Experimental comma separated lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2012/03/04 v3491 L3 Experimental token manipulation
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2012/03/04 v3490 L3 Experimental property lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2012/04/23 v3568 L3 Experimental messages
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2012/03/09 v3520 L3 Experimental file and I/O operations
+\l_iow_stream_int=\count100
+\l_iow_line_length_int=\count101
+\l_iow_target_length_int=\count102
+\l_iow_current_line_int=\count103
+\l_iow_current_word_int=\count104
+\l_iow_current_indentation_int=\count105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2012/03/05 v3499 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen111
+\l_tmpb_dim=\dimen112
+\l_tmpc_dim=\dimen113
+\g_tmpa_dim=\dimen114
+\g_tmpb_dim=\dimen115
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\l_tmpc_skip=\skip45
+\g_tmpa_skip=\skip46
+\g_tmpb_skip=\skip47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2012/03/03 v3487 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count106
+\l_keys_choice_int=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2012/03/04 v3490 L3 Experimental floating-point operations
+\c_one_hundred_million=\count108
+\c_five_hundred_million=\count109
+\c_one_thousand_million=\count110
+\c_fp_pi_by_four_decimal_int=\count111
+\c_fp_pi_by_four_extended_int=\count112
+\c_fp_pi_decimal_int=\count113
+\c_fp_pi_extended_int=\count114
+\c_fp_two_pi_decimal_int=\count115
+\c_fp_two_pi_extended_int=\count116
+\l_fp_count_int=\count117
+\l_fp_div_offset_int=\count118
+\l_fp_exp_integer_int=\count119
+\l_fp_exp_decimal_int=\count120
+\l_fp_exp_extended_int=\count121
+\l_fp_exp_exponent_int=\count122
+\l_fp_input_a_sign_int=\count123
+\l_fp_input_a_integer_int=\count124
+\l_fp_input_a_decimal_int=\count125
+\l_fp_input_a_exponent_int=\count126
+\l_fp_input_b_sign_int=\count127
+\l_fp_input_b_integer_int=\count128
+\l_fp_input_b_decimal_int=\count129
+\l_fp_input_b_exponent_int=\count130
+\l_fp_input_a_extended_int=\count131
+\l_fp_input_b_extended_int=\count132
+\l_fp_mul_a_i_int=\count133
+\l_fp_mul_a_ii_int=\count134
+\l_fp_mul_a_iii_int=\count135
+\l_fp_mul_a_iv_int=\count136
+\l_fp_mul_a_v_int=\count137
+\l_fp_mul_a_vi_int=\count138
+\l_fp_mul_b_i_int=\count139
+\l_fp_mul_b_ii_int=\count140
+\l_fp_mul_b_iii_int=\count141
+\l_fp_mul_b_iv_int=\count142
+\l_fp_mul_b_v_int=\count143
+\l_fp_mul_b_vi_int=\count144
+\l_fp_mul_output_int=\count145
+\l_fp_output_sign_int=\count146
+\l_fp_output_integer_int=\count147
+\l_fp_output_decimal_int=\count148
+\l_fp_output_exponent_int=\count149
+\l_fp_output_extended_int=\count150
+\l_fp_round_position_int=\count151
+\l_fp_round_target_int=\count152
+\l_fp_split_sign_int=\count153
+\l_fp_internal_int=\count154
+\l_fp_trig_octant_int=\count155
+\l_fp_trig_sign_int=\count156
+\l_fp_trig_decimal_int=\count157
+\l_fp_trig_extended_int=\count158
+\l_fp_internal_dim=\dimen116
+\l_fp_internal_skip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2012/03/04 v3490 L3 Experimental boxes
+\l_tmpb_box=\box26
+\l_box_top_dim=\dimen117
+\l_box_bottom_dim=\dimen118
+\l_box_left_dim=\dimen119
+\l_box_right_dim=\dimen120
+\l_box_top_new_dim=\dimen121
+\l_box_bottom_new_dim=\dimen122
+\l_box_left_new_dim=\dimen123
+\l_box_right_new_dim=\dimen124
+\l_box_internal_box=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2012/03/03 v3482 L3 Experimental coffin code layer
+\l_coffin_internal_box=\box28
+\l_coffin_internal_dim=\dimen125
+\l_coffin_offset_x_dim=\dimen126
+\l_coffin_offset_y_dim=\dimen127
+\l_coffin_x_dim=\dimen128
+\l_coffin_y_dim=\dimen129
+\l_coffin_x_prime_dim=\dimen130
+\l_coffin_y_prime_dim=\dimen131
+\l_coffin_Depth_dim=\dimen132
+\l_coffin_Height_dim=\dimen133
+\l_coffin_TotalHeight_dim=\dimen134
+\l_coffin_Width_dim=\dimen135
+\c_empty_coffin=\box29
+\l_coffin_aligned_coffin=\box30
+\l_coffin_aligned_internal_coffin=\box31
+\l_coffin_bounding_shift_dim=\dimen136
+\l_coffin_left_corner_dim=\dimen137
+\l_coffin_right_corner_dim=\dimen138
+\l_coffin_bottom_corner_dim=\dimen139
+\l_coffin_top_corner_dim=\dimen140
+\l_coffin_scaled_total_height_dim=\dimen141
+\l_coffin_scaled_width_dim=\dimen142
+\l_coffin_display_coffin=\box32
+\l_coffin_display_coord_coffin=\box33
+\l_coffin_display_pole_coffin=\box34
+\l_coffin_display_offset_dim=\dimen143
+\l_coffin_display_x_dim=\dimen144
+\l_coffin_display_y_dim=\dimen145
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count159
+\g_cctab_stack_int=\count160
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2012/04/23 v3570 L3 Experimental document command parser
+\l_xparse_current_arg_int=\count161
+\l_xparse_m_args_int=\count162
+\l_xparse_mandatory_args_int=\count163
+\l_xparse_processor_int=\count164
+\l_xparse_v_nesting_int=\count165
+)
+\l_fontspec_script_int=\count166
+\l_fontspec_language_int=\count167
+\l_fontspec_strnum_int=\count168
+\l_fontspec_tmpa_dim=\dimen146
+\l_fontspec_tmpb_dim=\dimen147
+\l_fontspec_tmpc_dim=\dimen148
+Variant \tl_gset:cV already defined; not changing it on line 66
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2012/05/06 v2.2b Advanced font selection for XeLaTeX/
+LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 29.
+LaTeX Info: Redefining \- on input line 32.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 107.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 111.
+.................................................
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2012/05/06 v2.2b Advanced font selection for XeLaTeX/Lu
+aLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count169
+\tipasavetokens=\toks16
+\tipachecktokens=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}m' on line 39.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}m' on line 43.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}m' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}m' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}m' on line 59.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 62.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}m' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}m' on line 68.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 84.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}m' on line 87.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 'm' on line
+. 91.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newICUfeature with arg. spec. 'mmm' on line 132.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 164.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 192.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 211.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 485
+Variant \prop_gput:cnx already defined; not changing it on line 486
+\l_fontspec_tmp_int=\count170
+LaTeX Info: Redefining \itshape on input line 1893.
+LaTeX Info: Redefining \slshape on input line 1897.
+LaTeX Info: Redefining \scshape on input line 1901.
+LaTeX Info: Redefining \upshape on input line 1905.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/polyglossia/polyglossia.sty
+Package: polyglossia 2012/04/29 v1.2.1 Babel replacement for XeLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count171
+)
+(/usr/share/texlive/texmf-dist/tex/latex/makecmds/makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+\XKV@depth=\count172
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+\xpg@normalclass=\XeTeXintercharclass4
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/polyglossia/gloss-malayalam.ldf
+File: gloss-malayalam.ldf polyglossia: module for malayalam
+)
+Package polyglossia Info: Default language is malayalam.
+\g_fontspec_family_Meera_int=\count173
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Meera/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Meera/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Meera/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(0)' created for font 'Meera' with options
+. [Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Meera/ICU:script=mlym;language=DFLT;"
+.................................................
+
+(/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+Package: xltxtra 2010/09/20 v0.5e Improvements for the "XeLaTeX" format
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2010/09/30 v0.3 Access OpenType subscripts and superscript
+s
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fakesubscript with arg. spec. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fakesuperscript with arg. spec. 'm' on line 22.
+.................................................
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \textsubscript with arg. spec. 's' on line 25.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \textsuperscript with arg. spec. 's' on line 28.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \realsubscript with arg. spec. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \realsuperscript with arg. spec. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \textsubsuperscript with arg. spec. 'sO{l}mm' on
+. line 137.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \textsupersubscript with arg. spec. 'sO{l}mm' on
+. line 140.
+.................................................
+\subsupersep=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks20
+\xl@@everylogo=\toks21
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\xxt@tempbox=\box35
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count174
+\Hy@pagecounter=\count175
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count176
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetexconfig/hyperref.cfg
+File: hyperref.cfg 2008/07/11 v1.2 hyperref configuration for XeLaTeX
+)
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count177
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count178
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count179
+\c@Item=\count180
+\c@Hfootnote=\count181
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/05/13 v6.82q Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/05/13 v6.82q Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box36
+\c@Hy@AnnotLevel=\count182
+\HyField@AnnotCount=\count183
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip49
+)
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 28.
+
+Package hyperref Info: Option `unicode' set `true' on input line 28.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 28.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 28.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 28.
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+
+Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
+(hyperref)                instead of the value given on input line 28.
+
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 28.
+Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(./master.aux
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Meera/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Meera/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Meera/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Meera/ICU:script=mlym;language=DFLT;"
+.................................................
+)
+\openout1 = `master.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 31.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-45.43198pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 31.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 31.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 31.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 31.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 31.
+LaTeX Font Info:    Redeclaring math accent \check on input line 31.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 31.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/Meera(0)/m/n on input line 31.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/Meera(0)/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/Meera(0)/m/n --> EU1/Meera(0)/m/n on input line 31.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/Meera(0)/m/n --> EU1/Meera(0)/m/n on input line 31.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/Meera(0)/m/it on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/Meera(0)/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/Meera(0)/m/n --> EU1/Meera(0)/bx/n on input line 31
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/Meera(0)/m/n --> EU1/Meera(0)/bx/n on input line 31
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/Meera(0)/bx/it on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 31.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring ON on input line 31.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count186
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+
+(./master.out) (./master.out)
+\@outlinefile=\write3
+\openout3 = `master.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 33.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [1
+
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+
+LaTeX Font Warning: Font shape `EU1/Meera(1)/m/sl' undefined
+(Font)              using `EU1/Meera(1)/m/n' instead on input line 33.
+
+[2
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+
+LaTeX Font Warning: Font shape `EU1/Meera(1)/bx/n' undefined
+(Font)              using `EU1/Meera(1)/m/n' instead on input line 33.
+
+(./master.toc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [3]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (8.12189pt too wide) in paragraph at lines 32--32
+ [][] [][][] \l_fontspec_font മതേതരനാടുകളിലേതു�
+��ോലെയോ കൂടുതലായോ മതന്യൂനപക്ഷ
+ങ്ങള്‍ക്ക് ഇസ്‌ലാമികരാഷ്ട്ര
+ത്തില്‍ മതസ്വാതന്ത്യ്ര- 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+LaTeX Font Warning: Font shape `EU1/Meera(0)/bx/n' undefined
+(Font)              using `EU1/Meera(0)/m/n' instead on input line 54.
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+LaTeX Font Warning: Font shape `EU1/Meera(1)/bx/sl' undefined
+(Font)              using `EU1/Meera(1)/bx/n' instead on input line 54.
+
+[4]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (3.79247pt too wide) in paragraph at lines 57--57
+ \l_fontspec_font അല്ലാഹുവിലും അന്ത്യദി
+നത്തിലും വിശ്വസിക്കുകയും സല�
+�‍ക്കര്‍മങ്ങളനുഷ്ഠിക്കുകയും
+ ചെയ്യുന്നവര്‍ക്ക് അവരുടെ രക�
+��ഷി- 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (2.27444pt too wide) in paragraph at lines 61--61
+ [][] [][][]\l_fontspec_font ഖുര്‍ആന്‍ ദൈവികഗ്�
+��ന്ഥമാണെന്നാണല്ലോ മു്‌സ്‌ലി�
+��കള്‍ അവകാശപ്പെടാറുള്ളത്. അത�
+� മുഹമ്മദിന്റെ രചനയല്ലെ- 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (8.91129pt too wide) in paragraph at lines 76--76
+ [][] [][][] \l_fontspec_font മുസ്‌ലിം സമുദായത്
+തില്‍ ജനിക്കുന്നവര്‍ക്ക് ദൈ�
+�ത്തെയും പ്രവാചകനെയും വേദഗ്ര�
+��്ഥത്തെയും സ്വര്‍ഗനരകങ്ങളെയ�
+��ം 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (34.77771pt too wide) in paragraph at lines 80--80
+ \l_fontspec_font മത്സ്യം വെട്ടിവിഴുങ്ങ
+ുകയും ചെയ്യുന്നു. ഈ വിധം അപ്ര�
+�്യക്ഷരാവുന്ന മനുഷ്യരെ വീണ്ട�
+��ം ഉയിര്‍ത്തെഴുന്നേല്‍പിക്ക�
+��മെന്നല്ലേ 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[5]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+)
+\tf@toc=\write4
+\openout4 = `master.toc'.
+
+ (./snehasamvadam.tex
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [6]
+അദ്ധ്യായം 1.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (37.98297pt too wide) in paragraph at lines 2--2
+[] \EU1/Meera(1)/bx/n/14.4 ലോകമെങ്ങുമുള്ള മുസ
+്‌ലിംകള്‍ ഭീകരവാദികളും തീവ്�
+�വാദികളുമാകാന്‍ കാരണം ഇസ്‌ലാ�
+��ല്ലേ? 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[7
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [8]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[9]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [10
+
+]
+അദ്ധ്യായം 2.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[11]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [12
+
+]
+അദ്ധ്യായം 3.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[13]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [14]
+അദ്ധ്യായം 4.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[15
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [16]
+അദ്ധ്യായം 5.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[17
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [18]
+അദ്ധ്യായം 6.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[19
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [20
+
+]
+അദ്ധ്യായം 7.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[21]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [22
+
+]
+അദ്ധ്യായം 8.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (0.47441pt too wide) in paragraph at lines 112--112
+[]\EU1/Meera(1)/bx/n/14.4 സ്ത്രീക്ക് പുരുഷന്�
+��െ പാതിസ്വത്തല്ലേ ഇസ്‌ലാം അന�
+�വദിക്കുന്നുള്ളൂ. ഇത് കടുത്ത �
+�നീ-
+ []
+
+
+Overfull \hbox (1.43553pt too wide) in paragraph at lines 114--115
+\l_fontspec_font ബാധ്യതകളും ഏതു സാഹചര്യ
+ത്തിലും പുരുഷനു മാത്രമാണ്. വി
+വാഹവേളയില്‍ വരന്റേയും വധുവി�
+�്റെയും വസ്ത്രങ്ങളുള്‍പ്പെട�
+� എല്ലാ
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[23]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [24
+
+]
+അദ്ധ്യായം 9.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (25.94182pt too wide) in paragraph at lines 118--123
+\l_fontspec_font പര്‍ദയണിഞ്ഞ സ്ത്രീകള്�
+�� ശാസ്ത്രജ്ഞകളായും വൈമാനികരാ
+യും സാഹിത്യകാരികളായും പത്രപ�
+�രവര്‍ത്തകകളായും പാര്‍ലമെന്�
+�ംഗങ്ങളായും
+ []
+
+
+Overfull \hbox (17.38768pt too wide) in paragraph at lines 118--123
+\l_fontspec_font പ്രശസ്ത സേവനം നിര്‍വഹി
+ച്ചുവരുന്നു. ഇറാനിലെ അഞ്ചു വൈ
+സ് പ്രസിഡന്റുമാരിലൊരാളായ മഅ�
+�‌സൂമാ ഇബ്തികാര്‍ പര്‍ദാധാരി�
+��ിയാണ്.
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Underfull \hbox (badness 1546) in paragraph at lines 124--124
+[]\EU1/Meera(1)/bx/n/14.4 'സ്ത്രീകള്‍ക്ക് പര്
+‍ദ നിര്‍ബന്ധമാക്കുകയും പുരു�
+�ന്മാരെ അതില്‍നിന്നൊഴിവാക്ക�
+�കയും
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[25]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [26]
+അദ്ധ്യായം 10.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[27
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [28
+
+]
+അദ്ധ്യായം 11.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[29]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [30
+
+]
+അദ്ധ്യായം 12.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (4.53232pt too wide) in paragraph at lines 149--173
+\l_fontspec_font 'പുരുഷനാവട്ടെ സ്ത്രീയാ
+വട്ടെ, സത്യവിശ്വാസമുള്‍ക്കൊ�
+�്ട് സല്‍ക്കര്‍മമനുഷ്ഠിക്കു�
+�്നതാരോ, അവര്‍ സ്വര്‍ഗാവകാശിക
+ളായിരിക്കും''(40:
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [32]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[33]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [34
+
+]
+അദ്ധ്യായം 13.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[35]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [36]
+അദ്ധ്യായം 14.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (29.31802pt too wide) in paragraph at lines 188--191
+\l_fontspec_font ടുന്ന സിന്ധി ഹിന്ദുക്ക
+ള്‍ക്ക് ആരാധനാലയം നിര്‍മിക്�
+�ാന്‍ ഭരണകൂടം പ്രത്യേകം അനുമത
+ി നല്‍കുകയുണ്ടായി. മലയാളത്തി�
+��െ ആര്‍.എസ്.എസ്.
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[37
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [38
+
+]
+അദ്ധ്യായം 15.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (64.02905pt too wide) in paragraph at lines 192--192
+[] \EU1/Meera(1)/bx/n/14.4 മതേതരനാടുകളിലേതുപ�
+��ലെയോ കൂടുതലായോ മതന്യൂനപക്ഷങ
+്ങള്‍ക്ക് ഇസ്‌ലാമികരാഷ്ട്രത
+്തില്‍
+ []
+
+
+Overfull \hbox (22.91284pt too wide) in paragraph at lines 194--220
+\l_fontspec_font ര്‍ബന്ധിക്കുകയോ? ദൈവഹി
+തമില്ലാതെ ഒരാള്‍ക്കും വിശ്വ�
+�ിക്കുക സാധ്യമല്ല''(ഖു. 6: 69). 'നബിയ
+േ, നീ ഉദ്‌ബോധിപ്പിച്ചുകൊണ്ടി�
+��ിക്കുക.
+ []
+
+
+Overfull \hbox (6.93793pt too wide) in paragraph at lines 194--220
+\l_fontspec_font ത്തെ ഇസ്‌ലാമികരാഷ്ട്ര�
+��ായ മദീനയില്‍, അതിന്റെ സ്ഥാപക�
+��ായ നബിതിരുമേനി മതന്യൂനപക്ഷങ
+്ങള്‍ക്ക് അനുവദിച്ചതുപോലുള്
+ള സ്വാ-
+ []
+
+
+Overfull \hbox (20.10089pt too wide) in paragraph at lines 194--220
+\l_fontspec_font നമ്മുടെ സഹായത്തിനും ദയ
+ാനിരതമായ സംരക്ഷണത്തിനും മുസ�
+�‌ലിം സമുദായാംഗങ്ങളെപ്പോലെ അ�
+��ര്‍ക്കും അവകാശമുണ്ട്. മുസ്‌�
+�ിംകളുമായി
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [40]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (909.92679pt too wide) has occurred while \output is active
+\l_fontspec_font 15.1.   മതേതരനാടുകളിലേതുപോ
+ലെയോ കൂടുതലായോ മതന്യൂനപക്ഷങ�
+�ങള്‍ക്ക് ഇസ്‌ലാമികരാഷ്ട്രത�
+�തില്‍ മതസ്വാതന്ത്യ്രമുണ്ടാ�
+�ുമെന്ന് താങ്കള്‍ അവകാശപ്പെട�
+��കയുണ്ടായല്ലോ? എന്നാല്‍ ലോകത�
+�ത് ഏതെങ്കിലും മുസ്‌ലിം രാജ്യ
+ത്ത് ഹിന്ദുക്കള്‍ക്ക് ക്ഷേത�
+�രം നിര്‍മിക്കാന്‍ അനുവാദമുണ�
+��ടോ? പാകിസ്താനിലും ബംഗ്‌ളാദേ�
+�ിലുമെല്ലാം ഉള്ളവതന്നെ തകര്‍�
+��്കുകയല്ലേ ചെയ്യുന്നത്? 41
+ []
+
+[41]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [42
+
+]
+അദ്ധ്യായം 16.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (46.59001pt too wide) in paragraph at lines 221--221
+\EU1/Meera(1)/bx/n/14.4 ശം നല്‍കുന്ന സെക്കു�
+�രിസം ഇവിടെ നിലനില്‍ക്കുന്നത�
+��? ഭൂരിപക്ഷം മുസ്‌ലിംകളായിരു�
+�്നുവെങ്കില്‍
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 221--221
+\EU1/Meera(1)/bx/n/14.4 രം പൌരന്‍മാരാവുകയോ �
+�തംമാറാന്‍ നിര്‍ബന്ധിതരാവുക�
+�ോ ചെയ്യുമായിരുന്നി-
+ []
+
+
+Overfull \hbox (19.09991pt too wide) in paragraph at lines 224--250
+\l_fontspec_font ധം ചെയ്യാത്തതിനാലാണ് ല
+ോകത്തെവിടെയും മാതൃകാ ഇസ്‌ലാ�
+�ിക രാഷ്ട്രങ്ങള്‍ കാണപ്പെടാത�
+��തത്. ഭാഗികമായി ഇസ്‌ലാമികവ്യ�
+�സ്ഥ
+ []
+
+
+Overfull \hbox (22.91284pt too wide) in paragraph at lines 224--250
+\l_fontspec_font ര്‍ബന്ധിക്കുകയോ? ദൈവഹി
+തമില്ലാതെ ഒരാള്‍ക്കും വിശ്വ�
+�ിക്കുക സാധ്യമല്ല''(ഖു. 6: 69). 'നബിയ
+േ, നീ ഉദ്‌ബോധിപ്പിച്ചുകൊണ്ടി�
+��ിക്കുക.
+ []
+
+
+Overfull \hbox (6.93793pt too wide) in paragraph at lines 224--250
+\l_fontspec_font ത്തെ ഇസ്‌ലാമികരാഷ്ട്ര�
+��ായ മദീനയില്‍, അതിന്റെ സ്ഥാപക�
+��ായ നബിതിരുമേനി മതന്യൂനപക്ഷങ
+്ങള്‍ക്ക് അനുവദിച്ചതുപോലുള്
+ള സ്വാ-
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [44]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (846.53108pt too wide) has occurred while \output is active
+\l_fontspec_font 16.1.   ഇന്ത്യയില്‍ ഭൂരിപക�
+�ഷം ഹിന്ദുക്കളായതിനാലല്ലേ എല�
+��ലാ മതക്കാര്‍ക്കും തുല്യാവകാ
+ശം നല്‍കുന്ന സെക്കുലരിസം ഇവി�
+��െ നിലനില്‍ക്കുന്നത്? ഭൂരിപക�
+�ഷം മുസ്‌ലിംകളായിരുന്നുവെങ്�
+�ില്‍ ഇന്ത്യയും മതാധിഷ്ഠിത ഇസ
+്‌ലാമിക രാഷ്ട്രമാവുകയും മറ്�
+�ു മതാനുയായികള്‍ രണ്ടാംതരം പൌ
+രന്‍മാരാവുകയോ മതംമാറാന്‍ നി�
+�്‍ബന്ധിതരാവുകയോ ചെയ്യുമായി�
+�ുന്നില്ലേ? 45
+ []
+
+[45]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [46
+
+]
+അദ്ധ്യായം 17.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (7.85251pt too wide) in paragraph at lines 251--251
+\EU1/Meera(1)/bx/n/14.4 നടത്താത്തത്? ഇസ്‌ലാ�
+� കാഫിറുകള്‍ക്കെതിരെ ജിഹാദ് ച
+െയ്യാന്‍ കല്‍പിക്കുന്നില്ലേ
+? 
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [48]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (173.48415pt too wide) has occurred while \output is active
+\l_fontspec_font 17.1.   ഇന്ത്യയില്‍ മുസ്‌ല�
+�ംകള്‍ ന്യൂനപക്ഷമായതിനാലല്ല�
+� ഞങ്ങള്‍ക്കെതിരെ ജിഹാദ് നടത്
+താത്തത്? ഇസ്‌ലാം കാഫിറുകള്‍ക�
+��കെതിരെ ജിഹാദ് ചെയ്യാന്‍ കല്�
+�പിക്കുന്നില്ലേ? 49
+ []
+
+[49]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [50
+
+]
+അദ്ധ്യായം 18.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (6.25092pt too wide) in paragraph at lines 281--281
+[] \EU1/Meera(1)/bx/n/14.4 കാര്യങ്ങളെല്ലാം നട
+ക്കുക ദൈവവിധിയനുസരിച്ചാണെന്
+ന് കാണിക്കുന്ന കുറേ ഖുര്‍ആന്�
+��
+ []
+
+
+Overfull \hbox (3.1244pt too wide) in paragraph at lines 281--281
+\EU1/Meera(1)/bx/n/14.4 ക്കുന്ന നിരവധി വചനങ�
+�ങളും തെളിയിക്കുന്നത്, വിധിവി
+ശ്വാസത്തെ സംബന്ധിച്ച ഖുര്‍ആ�
+�്‍
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[51]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [52]
+അദ്ധ്യായം 19.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[53
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [55]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [57]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[58]
+അദ്ധ്യായം 20.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (26.66264pt too wide) in paragraph at lines 359--359
+[] \EU1/Meera(1)/bx/n/14.4 ഹിന്ദുക്കള്‍ ക്ഷേത
+്രത്തിനു ചുറ്റും പ്രദക്ഷിണം �
+��െയ്യുന്നപോലെത്തന്നെയല്ലേ മ�
+��സ്‌ലിംകള്‍
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[59
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [60
+
+]
+അദ്ധ്യായം 21.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (2.13533pt too wide) in paragraph at lines 365--365
+[] \EU1/Meera(1)/bx/n/14.4 മുസ്‌ലിംകള്‍ എന്തി
+നാണ് നമസ്‌കാരത്തില്‍ കഅ്ബയി�
+�േക്ക് തിരിഞ്ഞുനില്‍ക്കുന്ന�
+�്?
+ []
+
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[61]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [62]
+അദ്ധ്യായം 22.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[63
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [64
+
+]
+അദ്ധ്യായം 23.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[65]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [66
+
+]
+അദ്ധ്യായം 24.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[67]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [68
+
+]
+അദ്ധ്യായം 25.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[69]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [70]
+അദ്ധ്യായം 26.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[71
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [72]
+അദ്ധ്യായം 27.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+Missing character: There is no • in font Meera/ICU:script=mlym;language=DFLT;
+!
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[73
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (272.50758pt too wide) has occurred while \output is active
+\l_fontspec_font 27.1.  ഖുര്‍ആന്‍ ദൈവികഗ്രന
+്ഥമാണെന്നാണല്ലോ മു്‌സ്‌ലിംക
+ള്‍ അവകാശപ്പെടാറുള്ളത്. അത് മ
+ുഹമ്മദിന്റെ രചനയല്ലെന്നും ദ�
+�വികമാണെന്നും എങ്ങനെയാണ് മനസ�
+��സിലാവുക? എന്താണതിന് തെളിവ്? 75
+ []
+
+[75]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (1.55643pt too wide) in paragraph at lines 488--488
+[]\EU1/Meera(1)/bx/n/14.4 'ഖുര്‍ആന്‍ ദൈവികമെന
+്നതിന് മുഴുവന്‍ തെളിവുകളും ഖ�
+��ര്‍ആനില്‍നിന്നുള്ളവയാണല്ല�
+�.
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[76]
+അദ്ധ്യായം 28.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[77
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [78]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (987.1648pt too wide) has occurred while \output is active
+\l_fontspec_font 28.1.   മുഹമ്മദ് തന്റെ കാലത�
+��തെ യഹൂദെ്രെകസ്തവ പണ്ഡിതന്മാ
+രുമായി ബന്ധപ്പെട്ട് പഠിച്ച ക�
+��ര്യങ്ങള്‍ സ്വന്തം ഭാഷയിലും �
+�ൈലിയിലും അവതരിപ്പിക്കുകയാണ�
+�ണ്ടായത്. പൂര്‍വസമൂഹങ്ങളെ സംബ
+ന്ധിച്ച ഖുര്‍ആന്റെയും ബൈബിള�
+�ന്റെയും വിവരണം ഒരേ വിധമാവാന്
+‍ കാരണം അതാണ് ഒന്നിലേറെ ഇംഗ്‌
+ളീഷ് പുസ്തകങ്ങളില്‍ ഈ വിധമുള�
+��ള പരാമര്‍ശം വായിക്കാനിടയായി
+. ഇതിനെക്കുറിച്ച് എന്തു പറയുന
+്നു? 79
+ []
+
+[79]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [80
+
+]
+അദ്ധ്യായം 29.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[81]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [82]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[83]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [84
+
+]
+അദ്ധ്യായം 30.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[85]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [86]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (379.45476pt too wide) has occurred while \output is active
+\l_fontspec_font 30.1.  ഇസ്‌ലാമിലെ പരലോക വി�
+�്വാസവും ഹിന്ദുമതത്തിലെ പുനര�
+��‍ജന്മ സങ്കല്‍പവും തമ്മില്‍ �
+�ല്ല വ്യത്യാസവുമുണ്ടോ? ഉണ്ടെങ
+്കില്‍ എന്താണ്? പുനര്‍ജന്മ സങ
+്കല്‍പത്തെ ഇസ്‌ലാം അംഗീകരിക�
+�കുന്നുണ്ടോ? ഇല്ലെങ്കില്‍ എന്
+തുകൊണ്ട്? 87
+ []
+
+[87]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [88
+
+]
+അദ്ധ്യായം 31.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (0.91144pt too wide) in paragraph at lines 623--625
+\l_fontspec_font സുഖാസ്വാദ്യതകളായിരിക�
+�കും സ്വര്‍ഗത്തിലുണ്ടാവുകയെ�
+�്ന് അവ വ്യക്തമാക്കുന്നു. പരല�
+�കത്തെ സ്ഥിതി ഭൂമിയില്‍ വച്ച്
+ പൂര്‍ണമായും
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (0.48534pt too wide) in paragraph at lines 627--627
+[]\EU1/Meera(1)/bx/n/14.4 ഇസ്‌ലാം വിഭാവന ചെയ്
+യുന്ന സ്വര്‍ഗത്തെ സംബന്ധിച്�
+� വിവരണം കേട്ടപ്പോഴെല്ലാം
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[89]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [90]
+അദ്ധ്യായം 32.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[91
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [92
+
+]
+അദ്ധ്യായം 33.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[93]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [94
+
+]
+അദ്ധ്യായം 34.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[95]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [96
+
+]
+അദ്ധ്യായം 35.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[97]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [98]
+അദ്ധ്യായം 36.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[99
+
+]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [100]
+അദ്ധ്യായം 37.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (3.29393pt too wide) in paragraph at lines 674--674
+[]\EU1/Meera(1)/bx/n/14.4 ''അദ്വൈതസിദ്ധാന്തത്
+തെ ഇസ്‌ലാം അംഗീകരിക്കുന്നുണ�
+�ടോ? ഇല്ലെങ്കില്‍ എന്തുകൊ-
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[101
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [102]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [104]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[105]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [106
+
+]
+അദ്ധ്യായം 38.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (15.98067pt too wide) in paragraph at lines 739--739
+[]\EU1/Meera(1)/bx/n/14.4 വിഗ്രഹാരാധനയെ ശക്ത�
+��ായെതിര്‍ക്കുന്ന മതമാണല്ലോ ഇ
+സ്‌ലാം. എന്നിട്ടും കഅ്ബ-
+ []
+
+
+Overfull \hbox (20.7845pt too wide) in paragraph at lines 740--745
+\l_fontspec_font മായ ഉമറുല്‍ ഫാറൂഖ് ഇക്�
+�ാര്യം അസന്ദിഗ്ധമായി വ്യക്തമ�
+��ക്കിയിട്ടുണ്ട്. ആ കല്ലിന് പ്�
+��ത്യേക പുണ്യം ആരും കല്‍പിക്ക�
+�തിരിക്കാനായി
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (6.894pt too wide) in paragraph at lines 746--748
+\l_fontspec_font ഇബ്‌റാഹീം നബിയും ഇസ്മാ
+ഈല്‍ നബിയും പണിത ദൈവിക ഭവനത്ത
+ിന്റെ ഭാഗമെന്ന നിലയില്‍ മുഹമ�
+��മദ് നബി അതിനെ സ്‌നേഹിക്കുകയ�
+�ം
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[107]
+Overfull \hbox (7.92804pt too wide) in paragraph at lines 749--797
+\l_fontspec_font സര്‍വജ്ഞത്വം മുതലായ ഗു
+ണങ്ങള്‍ ഈശ്വരനില്‍ ഘടിക്കുക�
+�ില്ല. എന്തെന്നാല്‍ പരിഛിന്നമ
+ായ വസ്തുവിലുള്ള ഗുണകര്‍മസ്വ�
+�ാവങ്ങളും
+ []
+
+
+Overfull \hbox (28.18628pt too wide) in paragraph at lines 749--797
+\l_fontspec_font രുവന്‍ ഒരിക്കലും നശിക്
+കയില്ലയോ അവനെയാണ് ഉപാസിക്കേ�
+�്ടത്; മറ്റൊരുവനെയല്ല.) വിഖ്യാ�
+��മായ ഹൈന്ദവസ്‌തോത്രത്തിലിങ്�
+��നെ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--797
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [109]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+[110]
+അദ്ധ്യായം 39.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--813
+
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[111
+
+]
+Overfull \hbox (16.45941pt too wide) in paragraph at lines 814--831
+\l_fontspec_font കൃഷ്ണന്‍: സ്‌നേഹിത, ആകാ�
+��ഭേദങ്ങളോടുകൂടിയ ശിവനും വിഷ്
+ണുവും മറ്റും ഈശ്വരസ്ഥാനത്തി�
+�്‍ അഭിഷിക്തരാകുന്നതിന് അര്‍�
+��ന്മാരല്ലെന്നും
+ []
+
+
+Overfull \hbox (9.11945pt too wide) in paragraph at lines 814--831
+\l_fontspec_font ശിവാദികളെ സൃഷ്ടിച്ച സര
+്‍വശക്തനാണ് ഈശ്വരനെന്നും വി�
+�്വസിക്കുന്ന ഞാനല്ലയോ ഈശ്വരവ�
+��ശ്വാസി? നശ്വരങ്ങളും ഈശ്വ-
+ []
+
+
+Overfull \hbox (3.84547pt too wide) in paragraph at lines 814--831
+\l_fontspec_font രസൃഷ്ടങ്ങളുമായ സാകാരവ�
+��്തുക്കളെ ഈശ്വരന്മാരെന്ന് വി
+ശ്വസിച്ചും തദനുസാരം ആരാധിച്�
+�ും വരുന്ന നിങ്ങളല്ലെയോ ധൂര്‍
+ത്തന്മാരായ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 814--831
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [112]
+Underfull \hbox (badness 10000) in paragraph at lines 832--838
+
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (174.04514pt too wide) has occurred while \output is active
+\l_fontspec_font 39.1.  അവതാരസങ്കല്‍പത്തെ ഇ
+സ്‌ലാം അംഗീകരിക്കുന്നില്ലെന
+്ന് താങ്കള്‍ പറഞ്ഞുവല്ലോ. ദൈവ
+ം വിവിധ രൂപേണ അവതരിക്കുമെന്ന 
+വിശ്വാസം ഇസ്‌ലാമിന്ന് വിരുദ�
+�ധമാണോ?' 113
+ []
+
+[113]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [114
+
+]
+അദ്ധ്യായം 40.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Underfull \hbox (badness 1127) in paragraph at lines 849--867
+\l_fontspec_font ടുന്നവര്‍ക്കോ ജ്യോത്�
+��്യന്മാര്‍ക്കോ കണക്കുനോട്ടക�
+��കാര്‍ക്കോ മറ്റാര്‍ക്കെങ്കി�
+��ുമോ ഇല്ല. ഉണ്ടെന്ന് അവകാശപ്പ�
+��ടുന്നത് തീര്‍ത്തും
+ []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[115]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [116]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+
+Overfull \hbox (775.31743pt too wide) has occurred while \output is active
+\l_fontspec_font 40.1.  ''ലോകത്ത് ആര്‍ക്കും ത
+ന്റെ ഭാവിയെ സംബന്ധിച്ച് ഒന്ന�
+��ം അറിയുകയില്ലെന്ന് താങ്കള്‍
+ ആമുഖ ഭാഷണത്തില്‍ പറഞ്ഞു. എന്�
+�ാല്‍ ജനനസമയത്തെ നക്ഷത്രഘടനയ�
+��ടെ അടിസ്ഥാനത്തില്‍ ജാതകഫലം �
+�്രവചിക്കാറുണ്ടല്ലോ. പ്രമുഖ ജ
+്യോതിഷിമാരുടെ പ്രവചനങ്ങള്‍
+ പലപ്പോഴും യാഥാര്‍ഥ്യമാവാറു�
+�്ട്. ഇതിനെക്കുറിച്ച് എന്തു പ�
+�യുന്നു?'' 117
+ []
+
+[117]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [118
+
+]
+അദ്ധ്യായം 41.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+[119]
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [120]
+അദ്ധ്യായം 42.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+ [121
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+ (./master.aux
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Meera(1)' created for font 'Meera' with options
+. [Script=Malayalam,Script=Malayalam].
+. 
+. This font family consists of the following shapes:
+.................................................
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 35.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19636 strings out of 494003
+ 384695 string characters out of 3152810
+ 571120 words of memory out of 3000000
+ 22705 multiletter control sequences out of 15000+200000
+ 6504 words of font info for 39 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 39i,6n,45p,3323b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on master.pdf (121 pages).
